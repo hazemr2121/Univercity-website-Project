@@ -1,0 +1,62 @@
+body{
+    background-color: lightgrey;
+    /* padding: 20px; */
+    font-size: x-large;
+    /* padding-left: 20%; */
+ }
+.Page{
+      width: 100%;
+      padding-left: 10%;
+      overflow: hidden;
+      float: left;
+      padding-top: 12px;
+      padding-right: 15px;
+  }
+.Box{
+    background-color: white;
+    width: 70%;
+    border-radius: 15px;
+    height: 570px;
+}
+  .Title h3{
+      color: white;
+      background-color: #8e0634;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      text-align: right;
+      border-radius: 15px;
+      direction: rtl;
+}
+
+
+body{
+    background-color: lightgray;
+    padding: 20px;
+    font-size: x-large;
+    padding-left: 20px;
+}
+.Page{
+    width: 100%;
+    padding-left: 10%;
+    overflow: hidden;
+    float: left;
+    padding-top: 12px;
+    padding-right: 15px;
+}
+.Box{
+    background-color: white;
+    width: 70%;
+    border-radius: 15px;
+    height: 570px;
+}
+.Title h3{
+    color: white;
+    background-color: #8e0634;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: right;
+    border-radius: 15px;
+    direction: rtl;
+}
